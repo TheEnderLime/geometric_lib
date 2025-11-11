@@ -19,6 +19,7 @@
 - Triangle: P = 2(a + b)
 > EX: a = 5, b = 10 => P = 30
 ## Project modification history
+- 0c8638d upgrade of comments and fixed README
 - 708dfcc Added comments about functions and upgraded docs
 - 7c1f48a Added rectangle and triangle. Update of README
 - d078c8d L-03: Docs added
